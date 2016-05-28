@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-material_ui-boilerplate",
+  "name": "bengal",
   "version": "1.0.0",
   "description": "A boilerplate for React + Redux + Material UI + ES6 syntax application",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/takanabe/react-redux-material_ui-boilerplate.git"
+    "url": "https://github.com/gactocat/bengal.git"
   },
   "keywords": [
     "React",
@@ -19,10 +19,10 @@
     "Bable",
     "ES6"
   ],
-  "author": "https://github.com/takanabe",
+  "author": "https://github.com/gactocat",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/takanabe/react-redux-material_ui-boilerplate/issues"
+    "url": "https://github.com/gactocat/bengal/issues"
   },
   "homepage": "",
   "devDependencies": {

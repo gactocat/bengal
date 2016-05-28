@@ -10,17 +10,6 @@ A boilerplate for React + Redux + Material UI + ES6 syntax applications. This bo
 
 
 # Usage
-## Preparation
-```bash
-$ git clone https://github.com/takanabe/react-redux-material_ui-boilerplate.git
-$ mv react-redux-material_ui-boilerplate [YOUR_APPNAME]
-$ cd [YOUR_APPNAME]
-$ rm -rf .git
-$ git init
-$ git add -A
-$ git commit -m "Initial commit with boilerplate"
-```
-
 ## Package installation
 ```bash
 $ npm install
@@ -42,4 +31,3 @@ To put compiled files into `static` directory, type the following command.
 ```bash
 $ npm run build
 ```
-
